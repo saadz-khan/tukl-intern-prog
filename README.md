@@ -1,2 +1,2 @@
 # tukl-intern-prog  
-Daily Progress Log Files.
+Daily Progress Files.
